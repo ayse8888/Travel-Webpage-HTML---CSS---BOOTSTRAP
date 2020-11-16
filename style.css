@@ -1,0 +1,98 @@
+.search-bar {
+    border: none;
+    outline: none;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    width: 100px;
+    text-align: center;
+}
+
+ul li a{
+    color: #4d4b4b;
+}
+
+ul li a:hover {
+    text-decoration: none;
+    color: #7e7a7a;
+}
+
+.explore {
+    background: url(https://demo.w3layouts.com/demosWTR/Freedom/19-02-2020/traveling-freedom-demo_Free/1171185230/web/assets/images/ba1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 7rem;
+    color: #f5f1f1;
+}
+
+.venice {
+    background: url(https://demo.w3layouts.com/demosWTR/Freedom/19-02-2020/traveling-freedom-demo_Free/1171185230/web/assets/images/bg1.jpg);
+    background-size: cover;
+    padding: 5rem;
+}
+
+.date {
+    width: 188px;
+    border: 1px solid gray;
+    color: gray;
+    padding: 1.4px;
+}
+
+.text-color-dark {
+    color: #4d4b4b;
+}
+
+.text-color-light {
+    color: white;
+}
+
+.cursors {
+    cursor: pointer;
+}
+
+.cursors:hover {
+    color: #525050;
+}
+
+.icons {
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    color: #df0b0b;
+    font-size: 1.5rem;
+    background-color: rgba(248, 219, 219,0.5);
+    border-radius: 60px;
+    padding-top: 0.5rem;
+}
+
+.icons-div, .card-div {
+    background-color: rgba(235, 233, 233,0.3);
+}
+
+.facebook-icon {
+    font-size: 1.5rem;
+    color: rgb(67, 90, 139);
+}
+
+.twitter-icon {
+    font-size: 1.5rem;
+    color: rgb(51, 189, 241);
+}
+
+.google-icon {
+    font-size: 1.5rem;
+    color: rgb(228, 111, 97);
+}
+
+.footer {
+    background-color: rgb(3, 20, 39);
+    color: rgb(132, 140, 149);
+}
+
+
+
